@@ -1,10 +1,8 @@
 # Cancer Trials Analysis
 
-When My mother was diagnoised with cancer in summer 2023, I learned that there are many gaps in our understanding of cancers. Some cancers are studied more than others, and some groups of people are studied more than others.
-In one of my mother's doctor visits prior to her radiation therapy, the doctor told us that some of the medicine haven't been specificly tested on female patients in the same age range and conditions as my mother, so the side affects are uncertain and dosage is based on estimation. 
+My mother was diagnoised with cancer in summer 2023. In a doctor visits prior to her radiation therapy, the doctor told us that some of her medicines haven't been specificly tested on female patients in the same age range and conditions as my mother, so the side affects are uncertain and dosage is based on estimation and will need adjustments. 
 This instance raised my awareness in the importance of age and gender representation of clinical trials. 
-This analysis utilized data published by ClinicalTrials.gov, adopted by Noah Rippner and published to data.world in 2016, to explore what cancer types are studied more.
-[source url](https://data.world/nrippner/cancer-trials/workspace/file?filename=study_fields.csv)
+This analysis utilized data published by ClinicalTrials.gov, adopted by Noah Rippner and published to data.world in 2016, to explore what cancer types are studied more. [Source URL](https://data.world/nrippner/cancer-trials/workspace/file?filename=study_fields.csv)
 
 **Cancer conditions representation**
 ![image](https://github.com/user-attachments/assets/46fd381b-da84-4928-b044-ae43f3b99646)
